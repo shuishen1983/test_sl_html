@@ -1,0 +1,11 @@
+.SimulinkModelIcon_icon,
+.Chart_icon,
+.LineIcon_icon,
+.State_icon,
+.Transition_icon { background-image: url('icon.png'); width: 16px; height: 16px; }
+
+.SimulinkModelIcon_icon { background-position: -0px; }
+.Chart_icon { background-position: -16px; }
+.LineIcon_icon { background-position: -32px; }
+.State_icon { background-position: -48px; }
+.Transition_icon { background-position: -64px; }
